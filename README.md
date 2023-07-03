@@ -1,4 +1,4 @@
-# 🙋‍♂️ _Hi, friend! Pleased to meet you._
+# _🙋‍♂️ Hi, friend! Pleased to meet you._
 
 I'm not super active on Github at the moment and many of my personal pet-projects are banished to private repositories until they are mature enough to see the light of day and not scare anyone off. 🙄
 
